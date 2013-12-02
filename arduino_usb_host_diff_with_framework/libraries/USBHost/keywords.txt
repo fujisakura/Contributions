@@ -1,0 +1,57 @@
+#######################################
+# Syntax Coloring Map For USBHost
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MouseController	KEYWORD1
+USBHost	KEYWORD1
+KeyboardController	KEYWORD1
+UsbStorageFatFs	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Task	KEYWORD2
+mouseMoved	KEYWORD2
+mouseDragged	KEYWORD2
+mousePressed	KEYWORD2
+mouseReleased	KEYWORD2
+getXChange	KEYWORD2
+getYChange	KEYWORD2
+getWheelChange	KEYWORD2
+getButton	KEYWORD2
+keyPressed	KEYWORD2
+keyReleased	KEYWORD2
+getModifiers	KEYWORD2
+getKey	KEYWORD2
+getOemKey	KEYWORD2
+begin	KEYWORD2
+gettotal	KEYWORD2
+getfree	KEYWORD2
+fopen	KEYWORD2
+fread	KEYWORD2
+fwrite	KEYWORD2
+flseek	KEYWORD2
+ftruncate	KEYWORD2
+fsync	KEYWORD2
+fclose	KEYWORD2
+fstat	KEYWORD2
+rename	KEYWORD2
+remove	KEYWORD2
+opendir	KEYWORD2
+readdir	KEYWORD2
+chdir	KEYWORD2
+mkdir	KEYWORD2
+rmdir	KEYWORD2
+exists	KEYWORD2
+fputc	KEYWORD2
+fputs	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
